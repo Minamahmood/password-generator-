@@ -12,7 +12,7 @@ clone the repo
 the linces is under MIT 
 
 # deployed
-
+https://minamahmood.github.io/password-generator-/
 
 # repo
 https://github.com/Minamahmood/password-generator-
